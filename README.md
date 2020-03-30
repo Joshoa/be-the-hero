@@ -6,9 +6,9 @@
 
   > #### Aplicação desenvolvida durante a Semana OmniStack 11.0 realizada pela [**Rocketseat**](https://rocketseat.com.br).
 
-  > O objetivo do **Be The Hero** é conectar pessoas que queiram ajudar de uma forma monetária à ONGs que precisem de recursos financeiros para tratar de algum caso específico. 
+  > O objetivo do **Be The Hero** é conectar ONGs que precisem de recursos financeiros para tratar de algum caso específico à pessoas que queiram e que possam ajudar de uma forma monetária. 
 
-  > Agradeço ao [**Diego Fernandes**](https://github.com/diego3g) e toda a equipe da [**Rocketseat**](https://rocketseat.com.br) por todo conteúdo disponibilizado durante essa semana, vocês são **NOTA 10!**.
+  > Agradeço ao [**Diego Fernandes**](https://github.com/diego3g) e toda a equipe da [**Rocketseat**](https://rocketseat.com.br) por todo conteúdo disponibilizado durante essa semana, vocês são **NOTA 10!**
 
 ## Tecnologias utilizadas:
   - #### **Back-end:** [NodeJS](https://nodejs.org);
